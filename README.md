@@ -24,6 +24,7 @@
 	
   <br>
 
+
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dooseong.nam/)](https://www.instagram.com/house_j_joon/) 
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100021325432557)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wownsl456@gmail.com)](mailto:wownsl456@gmail.com)
