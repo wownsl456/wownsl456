@@ -2,18 +2,18 @@
 
 <br>
 
-#### <span style="color:beige">안녕하세요 **Front end Developer**를 향해 나아가고 있는 유재준 **(Cojaee)** 입니다. <br><br> 항상 새로운 배움에 흥미를 가지고 열심히 하고 있으며 더더욱 좋은 **Developer**가 되기 위해 <br><br> 열심히 달려가고 있습니다. 저의 Github를 찾아주셔서 감사합니다.</span>
+#### 안녕하세요 **Front end Developer**를 향해 나아가고 있는 유재준 **(Cojaee)** 입니다. <br><br> 항상 새로운 배움에 흥미를 가지고 열심히 하고 있으며 더더욱 좋은 **Developer**가 되기 위해 <br><br> 열심히 달려가고 있습니다. 저의 Github를 찾아주셔서 감사합니다. 박철현 병 신새끼 
 
 <br>
 <br>
 
 
-### <span style="color:orange">***MY Technical Guide***</span>💪
+### ***MY Technical Guide***💪
 
- *  <span style="color:orange">HTML</span> 
- *  <span style="color:blue">CSS</span>
- *  <span style="color:yellow">JavaScript</span>
- *  <span style="color:skyblue">React</span> 
+ * HTML
+ * CSS
+ * JavaScript
+ * React 
 
  <br>
  
