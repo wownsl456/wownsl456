@@ -10,10 +10,10 @@
 
 ### <span style="color:darkgray">***MY Technical Guide***</span>💪
 
- *  <span style="color:orange"><u>HTML</u></span> 
- *  <span style="color:blue"><u>CSS</u></span>
- *  <span style="color:yellow"><u>JavaScript</u></span>
- *  <span style="color:skyblue"><u>React</u></span> 
+ *  <span style="color:orange">HTML</span> 
+ *  <span style="color:blue">CSS</span>
+ *  <span style="color:yellow">JavaScript</span>
+ *  <span style="color:skyblue">React</span> 
 
  <br>
  
