@@ -8,7 +8,7 @@
 <br>
 
 
-### <span style="color:darkgray">***MY Technical Guide***</span>💪
+### <span style="color:orange">***MY Technical Guide***</span>💪
 
  *  <span style="color:orange">HTML</span> 
  *  <span style="color:blue">CSS</span>
